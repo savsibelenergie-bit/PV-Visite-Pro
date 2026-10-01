@@ -1,0 +1,11 @@
+{
+  "name": "pv-visite-pro-v4",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
